@@ -15,6 +15,6 @@ npm run electron:serve
 
 # UI
 ![歌词详情](https://github.com/dongcx-com/electron-vue-music/blob/main/extraUI/lyric_detail.png)  
-![缩略图](https://github.com/dongcx-com/electron-vue-music/blob/main/extraUI/lyric_detail.png)
+![缩略图](https://github.com/dongcx-com/electron-vue-music/blob/main/extraUI/thumbar.png)
 
 
