@@ -9,5 +9,6 @@ npm install
 npm run electron:serve
 ```
 # 网易云音乐API
-需要运行API服务才能正常体验
+需要运行API服务才能正常体验  
+
 [开发文档](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
