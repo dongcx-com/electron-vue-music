@@ -3,8 +3,8 @@
 
 # 本地安装
 ```
-git clone https://github.com/SmallRuralDog/vue3-music.git
-cd vue3-music
-yarn
-yarn run dev
+git clone https://github.com/dongcx-com/electron-vue-music.git
+cd electron-vue-music
+npm install
+npm run electron:serve
 ```
